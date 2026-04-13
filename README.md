@@ -1,2 +1,2 @@
 # Geant4_for_delta_toy
-current working version of personal geant4 for a pion muon coincidence gun, pion and muon initals are from Genie then pushed to thie water,steel cylinder volume to mimic a delta resonance event
+A Geant4 toy model using FTFP_BERT to propagate injected co-primary μ⁻ and π⁺ through ANNIE-like water and steel, with standard EM/hadronic/decay processes for the particles, and an analytic Frank–Tamm calculation for intrinsic Cherenkov yield instead of full optical-photon tracking

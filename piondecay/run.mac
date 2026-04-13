@@ -1,0 +1,11 @@
+# run.mac -- Pion decay chain simulation
+# Usage: ./piondecay run.mac
+# Or for a quick test: ./piondecay run_test.mac
+/control/verbose 0
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+/process/verbose 0
+/run/initialize
+/run/setCut 0.1 mm
+/run/beamOn 30000

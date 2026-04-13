@@ -3,11 +3,11 @@ A Geant4 toy model using FTFP_BERT to propagate injected co-primary μ⁻ and π
 
 
 
-#Piondecay
+# Piondecay
 Piondecay has the geant4 code and csv files
 
 
-#python_analysis
+# python_analysis
 This folder contains the scrap notebook that was trial and error and debug
 # coprimary
 the coprimary analysis is the cleaned up stream lined version of what is in the python_analysis folder
